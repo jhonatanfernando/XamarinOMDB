@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{96511E07-52E3-405A-93EE-B6811E9FB629}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="117" Column="3" />
+      <File FileName="Resources/menu/search_menu.xml" Line="6" Column="24" />
+      <File FileName="Service/OmdbApiService.cs" Line="56" Column="26" />
+      <File FileName="Model/Movies.cs" Line="20" Column="16" />
+      <File FileName="Model/OmdbApiResult.cs" Line="11" Column="34" />
+      <File FileName="Library/MovieAdapter.cs" Line="43" Column="79" />
+      <File FileName="packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.SistemaHiper AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexuss" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jhonatanfernando/Projects/XamarinOMDB/SistemaHiper/Service/OmdbApiService.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
